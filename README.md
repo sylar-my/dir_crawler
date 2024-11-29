@@ -29,7 +29,7 @@ cargo install --git https://github.com/sylar-my/dir_crawler
 
 ### Build from Source
 ```bash
-git clone https://github.com/yourusername/dir_crawler.git
+git clone https://github.com/sylar-my/dir_crawler.git
 cd dir_crawler
 cargo build --release
 ```
