@@ -1,0 +1,7 @@
+# Rust-specific ignores
+/target
+**/*.rs.bk
+
+# Misc system files
+.DS_Store
+*.log
